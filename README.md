@@ -1,6 +1,6 @@
 # PlayYoutubeAlwaysOnTop
 
-A simple application for play youtube film alway on top.
+A simple application for playing youtube film alway on top.
 
 ## Sample
 
